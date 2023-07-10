@@ -1,7 +1,6 @@
 site_name: AN Sp500
 site_description: 'This site documents notes, guidelines, and research on various topics.'
 site_author: H Yang
-repo_url: https://github.com/sp500/sp500.github.io
 
 theme:
   name: material
