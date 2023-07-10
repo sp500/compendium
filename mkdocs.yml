@@ -1,6 +1,6 @@
 site_name: AN Sp500
 site_description: 'This site documents notes, guidelines, and research on various topics.'
-site_author: H Yang
+site_author: sp500
 
 theme:
   name: material
