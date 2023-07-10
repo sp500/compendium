@@ -1,0 +1,21 @@
+title: "idea: "
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thank you for taking time to specify your idea!
+
+- type: textarea
+  id: detail
+  attributes:
+    label: More Details
+    placeholder: |
+      Specify the idea with more explaination, pictures, etc.
+
+- type: checkboxes
+  id: copyrights
+  attributes:
+    label: Copyright
+    options:
+      - label: This idea belongs to Fieldpiece, Inc.
+        required: true
