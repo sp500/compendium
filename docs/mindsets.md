@@ -8,8 +8,6 @@ differences in mindset between wealthy individuals and those who
 struggle financially. It emphasizes the importance of adopting a
 wealthy mindset to achieve financial success.
 
-Facts
-
 💰 Wealthy individuals understand the importance of hard work and
 dedicate themselves to creating wealth, while poor people often only
 "wish" to become rich without taking real action.
