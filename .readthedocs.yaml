@@ -4,11 +4,13 @@ mkdocs:
   configuration: mkdocs.yml
   fail_on_warning: false
 
+build:
+  os: ubuntu-22.04
+  tools:
+    python: "3.11"
+
 python:
-  version: 3.7
   install:
-    - requirements: requirements.txt
-    - pip:
-      - mkdocs-material        
-      - jinja2==2.11.3
+    - requirements: ./requirements.txt
+
 
