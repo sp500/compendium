@@ -1,4 +1,4 @@
-site_name: AN Sp500
+site_name: AN
 site_description: 'This site documents notes, guidelines, and research on various topics.'
 
 theme:
@@ -49,6 +49,15 @@ extra_javascript:
         
 nav:
   - Home: index.md
-  - Mindsets: mindsets.md
-  - Technology: technology.md
-  - Investment: investment.md
+  - Mindsets:
+      - Videos: youtube/mindsets.md
+      - Books: neversplitdif.md
+      - Podcasts: podcasts.md
+  - Technology:
+      - Github: technology.md
+      - ChatGPT: chatgpt.md
+  - Investment:
+      - Value Investing: investment.md
+      - Option Strategies: options.md
+      - Industries:
+          - Quant: business.md
