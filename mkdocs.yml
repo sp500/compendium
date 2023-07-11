@@ -13,6 +13,9 @@ theme:
     - navigation.path
     - content.code.copy
     - content.code.annotate
+    - search.highlight
+    - search.suggest
+    - search.share
 
   palette: 
     # Palette toggle for light mode
@@ -41,14 +44,21 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tilde
+
+plugins:
+  - search:
+      prebuild_index: true
   
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-        
+
+extra_css:
+  - stylesheets/custom.css
+  
 nav:
-  - Home: index.md
+  - Home: index.md  
   - Mindsets:
       - Videos: ms/yt_videos.md
       - Books: ms/neversplitdif.md
@@ -61,3 +71,4 @@ nav:
       - Option Strategies: investment/options.md
       - Industries:
           - Quant: investment/quant.md
+
