@@ -1,7 +1,5 @@
 ## [Rich People Think Differently](https://www.youtube.com/watch?v=JGgya8LBnvI)
 
-### Summary
-
 The video discusses the book "有錢人想的和你不一樣" (translated as
 "Rich People Think Differently") by Harvey Eker, which explores the
 differences in mindset between wealthy individuals and those who
