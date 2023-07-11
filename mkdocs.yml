@@ -50,14 +50,14 @@ extra_javascript:
 nav:
   - Home: index.md
   - Mindsets:
-      - Videos: youtube/mindsets.md
-      - Books: neversplitdif.md
-      - Podcasts: podcasts.md
+      - Videos: ms/yt_videos.md
+      - Books: ms/neversplitdif.md
+      - Podcasts: ms/podcasts.md
   - Technology:
-      - Github: technology.md
-      - ChatGPT: chatgpt.md
+      - ChatGPT: tech/chatgpt.md
+      - Github: tech/github.md
   - Investment:
-      - Value Investing: investment.md
-      - Option Strategies: options.md
+      - Value Investing: investment/value.md
+      - Option Strategies: investment/options.md
       - Industries:
-          - Quant: business.md
+          - Quant: investment/quant.md
