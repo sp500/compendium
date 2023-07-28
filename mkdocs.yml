@@ -71,4 +71,6 @@ nav:
       - Option Strategies: investment/options.md
       - Industries:
           - Quant: investment/quant.md
-
+  - Soccer:
+      - Body Feint: soccer/body-fient.md
+      - Scan: soccer/scan.md
