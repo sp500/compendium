@@ -37,6 +37,10 @@ function widget(symbol) {
 - [Top News](https://seekingalpha.com/market-news/top-news)
 
 ## Financials
+
+### Payment
+   <div id="V"></div>
+   <div id="MA"></div>
 ### Index & Rating & Analytics
    <div id="MCO"></div>
    <div id="MSCI"></div>
@@ -48,9 +52,7 @@ function widget(symbol) {
    <div id="IDXX"></div>
    <div id="ZTS"></div>
 
-
 ## Industrials
-
 
 ### Misc
    <div id="CPRT"></div>
@@ -70,13 +72,24 @@ function widget(symbol) {
 
 ## Semiconductor
 
+### Equipment
+  <div id="KLA"></div>
+
 ### Foundry
   <div id="ASML"></div>
   <div id="TSM"></div>
 
 ### EDA
+
   <div id="CDNS"></div>
   <div id="SNPS"></div>
+
+### CHIP Giant
+
+  <div id="AMD"></div>
+  <div id="INTC"></div>
+  <div id="NVDA"></div>
+  <div id="QCOM"></div>
 
 
 ### Analog
@@ -86,6 +99,8 @@ function widget(symbol) {
 
 
 <script type="text/javascript">
+widget("V")
+widget("MA")
 widget("VRSN")
 widget("ADSK")
 widget("ASML")
@@ -104,4 +119,9 @@ widget("HEI")
 widget("CPRT")
 widget("IDXX")
 widget("ZTS")
+widget("AMD")
+widget("INTC")
+widget("NVDA")
+widget("QCOM")
+
 </script>

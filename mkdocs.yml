@@ -74,6 +74,10 @@ nav:
           - Charts: investment/charts.md
       - Industries:
           - Quant: investment/quant.md
+          - Semiconductor:
+              - Overview: investment/semi.md
+              - Equipment: investment/semi-equipment.md
+              - Processor: investment/semi-processor.md
   - Soccer:
       - Body Feint: soccer/body-fient.md
       - Scan: soccer/scan.md
