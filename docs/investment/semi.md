@@ -3,10 +3,72 @@ communications, Iot, data centers/cloud computing, automotive
 electronics, and advanced packaging. Below are major areas and players
 in the semiconductor industry.
 
-### Processors
 
-Central processing units that serve as the brains of computers and
-other devices.
+### Semiconductor Equipment
+
+Tools and machines for chip manufacturing.
+
+- [**ASML**](https://seekingalpha.com/symbol/ASML) - The dominant
+  supplier of lithography systems for chip manufacturing.
+
+- [**Applied Materials**](https://seekingalpha.com/symbol/AMAT) - The
+  world's largest semiconductor equipment company, broad portfolio of
+  manufacturing tools.
+
+- [**Lam Research**](https://seekingalpha.com/symbol/LRCX) - Leading
+  supplier of wafer fabrication equipment and services.
+
+- [**KLA Corporation**](https://seekingalpha.com/symbol/KLAC) -
+  Manufactures inspection and metrology systems for managing chip
+  yields.
+
+- [**Tokyo Electron**](https://www.tel.com) - Major global supplier of
+  semiconductor production equipment based in Japan.
+
+- [**Entegris**](https://seekingalpha.com/symbol/ENTG) - Provides
+  advanced materials and solutions for semiconductor manufacturing.
+
+### Foundries/Chip Manufacturing
+
+Fabrication plants that manufacture semiconductor chips.
+
+- [**TSMC**](https://seekingalpha.com/symbol/TSM) - The world
+  largest dedicated chip foundry, manufactures chips for many fabless
+  companies.
+
+- [**Samsung**](https://seekingalpha.com/symbol/SSNLF) - Major foundry
+  player in addition to designing and manufacturing its own chips.
+
+- [**GlobalFoundries**](https://seekingalpha.com/symbol/GFS) - Global
+  pure-play foundry company, manufacturing chips for fabless firms.
+
+- [**UMC**](https://seekingalpha.com/symbol/UMC) - Leading pure-play
+  foundry based in Taiwan, caters to fabless chip designers.
+
+- [**Intel**](https://seekingalpha.com/symbol/INTC) - Leading
+  integrated device manufacturer that both designs and manufactures
+  its own chips.
+
+### Testing/Probing 
+
+Equipment for testing semiconductor devices.
+
+- [**Teradyne**](https://seekingalpha.com/symbol/TER) - Leading
+  supplier of automatic test equipment for semiconductors and
+  electronic systems.
+
+- [**Advantest**](https://seekingalpha.com/symbol/ATEYY) - Major
+  manufacturer of test systems for memory, SoCs, and other
+  semiconductor devices.
+
+- [**Cohu**](https://seekingalpha.com/symbol/COHU) - Designs and
+  manufactures semiconductor test handling equipment and interface
+  solutions.
+
+- [**FormFactor**](https://seekingalpha.com/symbol/FORM) - Develops
+  advanced semiconductor wafer probe cards for chip testing.
+
+### CPU/GPU/SoC Design Houses
 
 - [**Intel**](https://seekingalpha.com/symbol/INTC) - The world's
   largest semiconductor chip maker, specializing in x86 CPUs for PCs
@@ -21,144 +83,165 @@ other devices.
 - [**Nvidia**](https://seekingalpha.com/symbol/NVDA) - Graphics and AI
   chipmaker
 
+- [**Broadcom**](https://seekingalpha.com/symbol/AVGO) - Major fabless
+  chip supplier focused on wireless, networking, and infrastructure
+  software.
 
-### Memory Chips 
+- [**Marvell**](https://seekingalpha.com/symbol/MRVL) - Fabless
+  designer of storage, networking, wireless, and embedded processor
+  chips.
+
+- [**AMD**](https://seekingalpha.com/symbol/AMD) - Fabless designer of
+  x86 CPUs and GPUs, competitor to Intel and Nvidia.
+
+- [**Apple**](https://seekingalpha.com/symbol/AAPL) - Fabless designer
+  of custom ARM-based chips for iPhones and Macs.
+
+
+### Memory Chips
 
 Chips that store data, including DRAM and flash memory.
 
-- Samsung, SK Hynix, Micron
+- [**Samsung**](https://seekingalpha.com/symbol/SSNLF) - Major memory
+  chip supplier, #1 in DRAM and NAND flash memory.
 
-### Foundries/Chip Manufacturing
+- [**SK Hynix**](https://seekingalpha.com/symbol/HXSCL) - Second
+  largest DRAM supplier globally after Samsung.
 
-Fabrication plants that manufacture semiconductor chips.  
+- [**Micron**](https://seekingalpha.com/symbol/MU) - Major DRAM and
+  NAND flash memory manufacturer.
 
-- TSMC, Samsung, GlobalFoundries, UMC
+- **Toshiba** - Major NAND flash memory supplier for storage and
+    consumer devices.
 
-### Fabless Design Houses
-
-Companies that design chips but outsource manufacturing.
-
-- Apple, AMD, Qualcomm, Nvidia, Broadcom, Marvell
-
-### Analog/Mixed Signal 
+### Analog/Mixed Signal
 
 Chips that process real-world analog signals.
 
-- Texas Instruments, Analog Devices, Maxim Integrated
+- [**Texas Instruments**](https://seekingalpha.com/symbol/TXN) -
+  Global leader in analog chips and embedded processors.
+
+- [**Analog Devices**](https://seekingalpha.com/symbol/ADI) - Major
+  analog chip company focused on high performance analog,
+  mixed-signal, and DSP.
+
+- [**Maxim Integrated**](https://seekingalpha.com/symbol/MXIM) -
+  Designs analog chips and sensors for automotive, industrial,
+  healthcare applications. Part of Analog Devices now.
+
+- [**STMicroelectronics**](https://seekingalpha.com/symbol/STM) -
+  European chipmaker that manufactures analog, mixed-signal, and MEMS
+  chips.
+
 
 ### Microcontrollers
 
 Small computers-on-a-chip for controlling devices.
 
-- Microchip, STMicroelectronics, Renesas 
+- [**Microchip**](https://seekingalpha.com/symbol/MCHP) - Leading
+  microcontroller supplier for embedded and IoT applications.
 
-### RF/Wireless
+- [**STMicroelectronics**](https://seekingalpha.com/symbol/STM) -
+  Global semiconductor company that manufactures mainstream and
+  automotive microcontrollers.
 
-Chips for radio frequency and wireless communications.
+- [**Renesas**](https://www.renesas.com) - Major microcontroller and
+  embedded systems provider from Japan.
 
-- Qorvo, Skyworks, Qualcomm
+- [**NXP Semiconductors**](https://seekingalpha.com/symbol/NXPI) - Key
+  microcontroller provider for automotive, security, and IoT
+  applications.
 
-### Power Management
+- [**Texas Instruments**](https://seekingalpha.com/symbol/TXN) -
+  Massive microcontroller portfolio for industrial and embedded use
+  cases.
 
-Chips for regulating voltage and power.
+- [**Silicon Labs**](https://seekingalpha.com/symbol/SLAB) - Leading
+  provider of wireless-enabled microcontrollers for IoT.
 
-- Infineon, ON Semiconductor
+### Automotive and Power Semiconductors
 
-### Optoelectronics
+Chips built for automotive applications and power management.
 
-Chips that interact with light, e.g. image sensors.
+- [**Infineon**](https://seekingalpha.com/symbol/IFNNY) - Leading
+  automotive semiconductor supplier and power semiconductor
+  manufacturer.
 
-- II-VI, Lumentum, Qorvo
+- [**STMicroelectronics**](https://seekingalpha.com/symbol/STM) -
+  Major provider of ICs and discrete power semiconductors for
+  automotive and industrial applications.
 
-### Semiconductor Equipment
+- [**On Semiconductor**](https://seekingalpha.com/symbol/ON) - Leading
+  supplier of power management, analog, sensing, and connectivity
+  chips for EVs and advanced driver-assistance systems (ADAS).
 
-Tools and machines for chip manufacturing.
+- [**NXP Semiconductors**](https://seekingalpha.com/symbol/NXPI) -
+  Significant automotive chip portfolio for ADAS, vehicle networking,
+  powertrain and safety applications.
 
-- ASML, Applied Materials, Lam Research, KLA Corporation
+- [**Renesas**](https://www.renesas.com) - Key automotive
+  microcontroller and system-on-chip (SoC) supplier based in Japan.
 
-### CAD/EDA Software
+
+Here are overviews for the major semiconductor design software companies:
+
+### EDA (Electronic Design Automation) Software
 
 Software for designing and verifying integrated circuits.
 
-- Synopsys, Cadence, Siemens EDA
+- [**Synopsys**](https://seekingalpha.com/symbol/SNPS) - Leading EDA
+  vendor, provides chip design and verification tools.
 
-### Electronic Design Automation
+- [**Cadence Design Systems**](https://seekingalpha.com/symbol/CDNS) -
+  EDA and IP company, offers software for full chip design workflow.
 
-Software tools for designing electronics and PCBs. 
+- [**Siemens EDA**](https://www.sw.siemens.com/en-US/edsa) - EDA tools
+  for IC and system design, including simulation and verification.
 
-- Ansys, Altium
 
-### Semiconductor IP 
+### Simulation and PCB
+
+- [**Ansys**](https://seekingalpha.com/symbol/ANSS) - Multiphysics
+  simulation software used to design electronic components.
+
+- [**Altium**](https://www.altium.com) - Leading PCB and electronic
+  design automation software.
+
+### Semiconductor IP
 
 Reusable chip design blocks.
 
-- ARM Holdings, Rambus, Ceva
+- [**ARM Holdings**](https://www.arm.com) - Leading provider of
+  semiconductor IP such as CPU and GPU cores. Owned by SoftBank.
 
-### Advanced Packaging
+- [**Rambus**](https://seekingalpha.com/symbol/RMBS) - Semiconductor
+  IP licensing company, known for memory and interface solutions.
 
-Technology for combining multiple chips in a package.
-
-- ASE, Amkor
-
-### Silicon Photonics
-
-Chips that use light for data transmission.
-
-- Inphi, Cisco, Intel
+- [**Ceva**](https://seekingalpha.com/symbol/CEVA) - Licenses DSP
+  cores and platforms for AI, IoT, 5G, and automotive applications.
 
 
-- GlobalFoundries, UMC  
-
-### Discrete/Power Semis
-
-Standalone semiconductor devices like diodes.
-
-- Infineon, STMicroelectronics, On Semiconductor
-
-### Memory/Storage
-
-Data storage like flash drives and hard drives.
-
-- Western Digital, Seagate, Micron
-
-### Embedded Systems
-
-Chips and systems for embedded products.
-
-- NXP, Microchip, Renesas
-
-### Automotive Chips
-
-Chips built for automotive applications.
-
-- NXP, Renesas, Infineon
-
-### Custom/ASICs 
-
-Application-specific integrated circuits.
-
-- eSilicon, Dialog Semiconductor
-
-### Testing/Probing
-
-Equipment for testing semiconductor devices. 
-
-- Teradyne, Advantest
-
-### IP Cores 
-
-Intellectual property core design components.
-
-- ARM, Rambus, Imagination Tech
-
-### Equipment/Chemicals
-
-Fab equipment and chemicals for chip manufacturing.
-
-- Applied Materials, Lam Research, Entegris 
+Here are overviews of key semiconductor materials companies:
 
 ### Materials
 
 Substrates, gases, silicon used to produce chips.
 
-- Sumco, Shin-Etsu, Corning
+- [**Sumco**](https://www.sumco.com) - Leading manufacturer of silicon
+  wafers used to fabricate chips. Based in Japan.
+
+- [**Shin-Etsu**](https://www.shinetsu.co.jp) - Major supplier of
+  silicon wafers as well as rare earth magnets and semiconductor
+  chemicals.
+
+- [**Corning**](https://seekingalpha.com/symbol/GLW) - Produces
+  specialized glass substrates, glasses, and ceramics for
+  semiconductor fabs.
+
+- [**Air Liquide**](https://www.airliquide.com) - Global industrial
+  gas company that provides gases and chemicals for semiconductor
+  manufacturing.
+
+- [**Air Products**](https://seekingalpha.com/symbol/APD) - Supplies
+  nitrogen, oxygen, argon, helium, and gases worldwide for
+  semiconductor production.
