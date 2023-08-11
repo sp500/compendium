@@ -31,98 +31,51 @@ function widget(symbol) {
 }
 </script>
 
-## Market
 
-- [US10Y United States 10-Year Bond Yield](https://seekingalpha.com/symbol/US10Y)
-- [Top News](https://seekingalpha.com/market-news/top-news)
-
-## Financials
-
-### Payment
-   <div id="V"></div>
-   <div id="MA"></div>
-
-### Index & Rating & Analytics
-   <div id="MCO"></div>
-   <div id="MSCI"></div>
-   <div id="SPGI"></div>
-
-## Healthcare
-
-### Companion
-   <div id="IDXX"></div>
-   <div id="ZTS"></div>
-
-## Industrials
-
-### Misc
-   <div id="CPRT"></div>
-   <div id="HEI"></div>
-
-## REIT
-
-### Tech
-   <div id="CSGP"></div>
-### Tower
-   <div id="AMT"></div>
-   <div id="SBAC"></div>
-
-## SW
-  <div id="ADSK"></div>
-  <div id="VRSN"></div>
-
-## Semiconductor
-
-### Equipment
+## Equipment
+### KLA
   <div id="KLA"></div>
 
-### Foundry
+## Foundry
+### ASML
   <div id="ASML"></div>
+### TSM
   <div id="TSM"></div>
 
-### EDA
-
+## EDA
+### CDNS
   <div id="CDNS"></div>
+### SNPS
   <div id="SNPS"></div>
 
-### CHIP Giant
-
+## CHIP Giant
+### AMD
   <div id="AMD"></div>
+
+### INTC
   <div id="INTC"></div>
+### NVDA
   <div id="NVDA"></div>
+### QCOM
   <div id="QCOM"></div>
 
 
-### Analog
+## Analog
+### ADI
   <div id="ADI"></div>
+### TXN
   <div id="TXN"></div>
 
-
-
 <script type="text/javascript">
-widget("V")
-widget("MA")
-widget("VRSN")
-widget("ADSK")
 widget("ASML")
 widget("TSM")
 widget("ADI")
 widget("TXN")
-widget("CSGP")
-widget("AMT")
-widget("SBAC")
 widget("CDNS")
 widget("SNPS")
-widget("MCO")
-widget("MSCI")
-widget("SPGI")
-widget("HEI")
-widget("CPRT")
-widget("IDXX")
-widget("ZTS")
-widget("AMD")
-widget("INTC")
 widget("NVDA")
 widget("QCOM")
-
+widget("KLA")
+widget("AMD")
+widget("INTC")
 </script>

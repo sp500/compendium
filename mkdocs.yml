@@ -70,8 +70,9 @@ nav:
       - Github: tech/github.md
   - Investment:
       - Value Investing: investment/value.md
-      - Option Strategies:
-          - Charts: investment/charts.md
+      - Option Strategies: investment/options.md
+      - Charts:
+          - Semiconductors: investment/charts-semi.md
       - Industries:
           - Quant: investment/quant.md
           - Semiconductor:
