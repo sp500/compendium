@@ -1,0 +1,5 @@
+# build files
+site
+.DS_Store
+\#*\#
+__pycache__/
