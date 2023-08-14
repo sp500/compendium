@@ -72,7 +72,9 @@ nav:
       - Value Investing: investment/value.md
       - Option Strategies: investment/options.md
       - Charts:
+          - Industrials: investment/charts-ind.md                      
           - Semiconductors: investment/charts-semi.md
+
       - Industries:
           - Quant: investment/quant.md
           - Semiconductor:
