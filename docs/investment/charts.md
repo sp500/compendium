@@ -71,31 +71,6 @@ function widget(symbol) {
   <div id="ADSK"></div>
   <div id="VRSN"></div>
 
-## Semiconductor
-
-### Equipment
-  <div id="KLA"></div>
-
-### Foundry
-  <div id="ASML"></div>
-  <div id="TSM"></div>
-
-### EDA
-
-  <div id="CDNS"></div>
-  <div id="SNPS"></div>
-
-### CHIP Giant
-
-  <div id="AMD"></div>
-  <div id="INTC"></div>
-  <div id="NVDA"></div>
-  <div id="QCOM"></div>
-
-
-### Analog
-  <div id="ADI"></div>
-  <div id="TXN"></div>
 
 
 
