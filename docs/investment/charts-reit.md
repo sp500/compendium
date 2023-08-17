@@ -32,54 +32,22 @@ function widget(symbol) {
 }
 </script>
 
-## Equipment
-### KLA
-  <div id="NASDAQ:KLAC"></div>
+## Services
 
-## Foundry
-### ASML
-  <div id="ASML"></div>
-### TSM
-  <div id="TSM"></div>
+### [CSGP](https://github.com/sp500/investment/discussions/241)
+  <div id="CSGP"></div>
+  
+## Towers
 
-## EDA
+### [AMT](https://github.com/sp500/investment/discussions/215)
+  <div id="AMT"></div>
 
-### [CDNS](https://github.com/sp500/investment/discussions/224)
-  <div id="CDNS"></div>
+### SBAC
+  <div id="SBAC"></div>
 
-### SNPS
-  <div id="SNPS"></div>
-
-## CHIP Giant
-### AMD
-  <div id="AMD"></div>
-
-### INTC
-  <div id="INTC"></div>
-### NVDA
-  <div id="NVDA"></div>
-### QCOM
-  <div id="QCOM"></div>
-
-
-## Analog
-
-### [ADI](https://github.com/sp500/investment/discussions/213)
-  <div id="ADI"></div>
-
-### TXN
-  <div id="TXN"></div>
 
 <script type="text/javascript">
-widget("ASML")
-widget("TSM")
-widget("ADI")
-widget("TXN")
-widget("CDNS")
-widget("SNPS")
-widget("NVDA")
-widget("QCOM")
-widget("NASDAQ:KLAC")
-widget("AMD")
-widget("INTC")
+widget("AMT")
+widget("SBAC")
+widget("CSGP")
 </script>

@@ -6,6 +6,7 @@ function widget(symbol) {
   "height": 610,
   "width": "100%",
   "symbol": symbol,
+  "interval": "D",
   "timezone": "Etc/UTC",
   "theme": "light",
   "style": "2",
@@ -13,7 +14,7 @@ function widget(symbol) {
   "toolbar_bg": "#f1f3f6",
   "enable_publishing": true,
   "withdateranges": true,
-  "range": "3M",
+  "range": "12M",
   "hide_side_toolbar": false,
   "allow_symbol_change": true,
   "studies": [
