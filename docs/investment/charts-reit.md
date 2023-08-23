@@ -45,7 +45,6 @@ function widget(symbol) {
 ### SBAC
   <div id="SBAC"></div>
 
-
 <script type="text/javascript">
 widget("AMT")
 widget("SBAC")

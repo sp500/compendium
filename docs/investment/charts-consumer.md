@@ -32,21 +32,10 @@ function widget(symbol) {
 }
 </script>
 
-## Domain
-
-### VRSN
-  <div id="VRSN"></div>
-
-## SaaS
-
-### [ADSK](https://github.com/sp500/investment/discussions/216)
-  <div id="ADSK"></div>
-
-### [NCNO](https://github.com/sp500/investment/discussions/244)
-  <div id="NCNO"></div>
+## Whole Sale
+### COST
+  <div id="COST"></div>
 
 <script type="text/javascript">
-widget("ADSK")
-widget("NCNO")
-widget("VRSN")
+widget("COST")
 </script>
