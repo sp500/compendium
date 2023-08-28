@@ -49,7 +49,6 @@ plugins:
   - include-markdown
   - search:
       prebuild_index: true
-
       
 extra_javascript:
   - javascripts/mathjax.js
@@ -72,10 +71,7 @@ nav:
       - Value Investing: investment/value.md
       - Industries and Stocks:
           - Quant: investment/quant.md
-          - Semiconductor:
-              - Overview: investment/semi.md
-              - Equipment: investment/semi-equipment.md
-              - Processor: investment/semi-processor.md
+          - Semiconductor: investment/semi.md
       - Trading Strategies:
           - Indicators: investment/indicators.md
           - Options: investment/options.md
@@ -88,7 +84,6 @@ nav:
           - Semiconductors: investment/charts-semi.md
           - Technology: investment/charts-tech.md
           - Growth: investment/charts-growth.md
-
   - Soccer:
       - Body Feint: soccer/body-fient.md
       - Scan: soccer/scan.md
