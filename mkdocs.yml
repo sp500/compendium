@@ -70,7 +70,9 @@ nav:
       - Github: tech/github.md
   - Investment:
       - Value Investing: investment/value.md
-      - Option Strategies: investment/options.md
+      - Trading Strategies:
+          - Indicators: investment/indicators.md
+          - Options: investment/options.md
       - Stock Charts:
           - Consumer: investment/charts-consumer.md
           - Industrials: investment/charts-ind.md
