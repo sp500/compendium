@@ -1,0 +1,30 @@
+@media (min-width: 768px) {
+  .sidebar {
+    width: 25%;
+    float: left;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+  }
+
+  .main-container {
+    margin-left: 25%;
+  }
+
+  .nav {
+    margin-top: 0;
+  }
+
+  #<mark>mkdocs</mark>-search-form {
+    position: sticky;
+    top: 0;
+    background: #fff;
+    padding: 10px;
+    z-index: 1;
+  }
+
+  #<mark>mkdocs</mark>-search-query {
+    max-width: 100%;
+  }
+}
