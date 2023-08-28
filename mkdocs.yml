@@ -46,15 +46,15 @@ markdown_extensions:
   - pymdownx.tilde
 
 plugins:
+  - include-markdown
   - search:
       prebuild_index: true
-  
+
+      
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - javascripts/tradingview_widget.js
-
 
 extra_css:
   - stylesheets/custom.css
@@ -71,11 +71,16 @@ nav:
   - Investment:
       - Value Investing: investment/value.md
       - Option Strategies: investment/options.md
-      - Charts:
-          - Industrials: investment/charts-ind.md                      
+      - Stock Charts:
+          - Consumer: investment/charts-consumer.md
+          - Industrials: investment/charts-ind.md
+          - HVAC: investment/charts-hvac.md            
+          - Financials: investment/charts-financial.md
+          - REIT: investment/charts-reit.md                       
           - Semiconductors: investment/charts-semi.md
           - Technology: investment/charts-tech.md
-          - REIT: investment/charts-reit.md            
+          - Growth: investment/charts-growth.md
+
       - Industries:
           - Quant: investment/quant.md
           - Semiconductor:
