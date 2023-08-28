@@ -1,7 +1,5 @@
 
-## Options
-
-### Equivalent Positions in Options Trading
+## Equivalent Positions in Options Trading
 
 This table shows how equivalent positions can be structured to achieve
 similar risk and reward characteristics while using different
@@ -21,33 +19,33 @@ stock.
 
 
 
-### Long Stocks with Options
+## Long Stocks with Options
 
-#### Backspread
+### Backspread
 
 A backspread is a variation of the call ratio spread (long multiple
 OTM call + short ATM calls) equivalent to a net long position in
 options.
 
-#### Diagonal Spread
+### Diagonal Spread
 
 A diagonal spread (long longer-dated OTM or ATM call + short
 shorter-dated ATM call) uses the long call to provide upside exposure
 and the short call to generate income to offset cost.
 
-#### Synthetic Long Stock
+### Synthetic Long Stock
 
 A "synthetic" position (long ITM call + short ITM put) is essentially
 bear call spread in IRA type non-margin accounts where your write OTM
 call (cash-secured short ITM put) and open long ITM call
 
-#### Collar
+### Collar
 
 A "Collar" position (long stock + long OTM put + short ATM call) is
 essentially bull call spread in IRA type non-margin accounts where you
 cannot open spreads. 
 
-### Reduceing Holding or Option Premium Costs
+## Reduceing Holding or Option Premium Costs
 
 The primary goal is to reduce cost bases of holding stock positions.
 
@@ -56,7 +54,7 @@ structure aims to reduce the cost of that exposure to mimic long stock
 more efficiently.
 
 
-#### Open, Roll or Extend Long Calls
+### Open, Roll or Extend Long Calls
 
 With a long call option, you buy call options on a stock you expect to
 increase in price. If the stock price goes up, the call options become
@@ -93,7 +91,4 @@ would be lower.
     some of the value of the original call to open the new lower
     strike call.
 
-
-
-
-### Spreads or Shorts
+## Spreads or Shorts
