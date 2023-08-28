@@ -70,6 +70,12 @@ nav:
       - Github: tech/github.md
   - Investment:
       - Value Investing: investment/value.md
+      - Industries and Stocks:
+          - Quant: investment/quant.md
+          - Semiconductor:
+              - Overview: investment/semi.md
+              - Equipment: investment/semi-equipment.md
+              - Processor: investment/semi-processor.md
       - Trading Strategies:
           - Indicators: investment/indicators.md
           - Options: investment/options.md
@@ -83,12 +89,6 @@ nav:
           - Technology: investment/charts-tech.md
           - Growth: investment/charts-growth.md
 
-      - Industries:
-          - Quant: investment/quant.md
-          - Semiconductor:
-              - Overview: investment/semi.md
-              - Equipment: investment/semi-equipment.md
-              - Processor: investment/semi-processor.md
   - Soccer:
       - Body Feint: soccer/body-fient.md
       - Scan: soccer/scan.md
