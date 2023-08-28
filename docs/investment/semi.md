@@ -1,8 +1,10 @@
+
+## Overview
+
 The major trends right now are growth in AI/machine learning, 5G
 communications, Iot, data centers/cloud computing, automotive
 electronics, and advanced packaging. Below are major areas and players
 in the semiconductor industry.
-
 
 ### Semiconductor Equipment
 
@@ -245,3 +247,100 @@ Substrates, gases, silicon used to produce chips.
 - [**Air Products**](https://seekingalpha.com/symbol/APD) - Supplies
   nitrogen, oxygen, argon, helium, and gases worldwide for
   semiconductor production.
+
+
+## KLA
+
+### Business
+
+KLA Corporation has a superior business model in the semiconductor
+equipment industry for the following reasons:
+
+- Market Leadership in Process Control - KLA dominates the metrology,
+  inspection, and process control segment for semiconductors with over
+  55% market share. This gives it a commanding position in an
+  essential niche.
+
+- Sticky Customer Relationships - Once KLA tools are installed at fabs
+  for process control, customers are unlikely to replace them as
+  processes are optimized around KLA's instrumentation. This leads to
+  recurring revenue.
+
+- High Barriers to Entry - The technical expertise and IP required to
+  develop advanced process control systems makes it difficult for new
+  entrants to displace KLA.
+
+- Unique Offerings - KLA is the only equipment company focused on
+  metrology, inspection, and control. Peers mainly provide
+  semiconductor processing/manufacturing tools.
+
+- Insulated from Cyclicality - Demand for yield improvement is
+  constant, insulating KLA from the boom/bust cycles of chip
+  manufacturing investments.
+
+- Financial Strength - KLA has industry-leading profit margins, cash
+  reserves, and cash flow. This provides stability and allows
+  continued R&D investment.
+
+- Exposure to Cutting Edge Nodes - Even during downturns, R&D for
+  leading-edge nodes continues where KLA's tools are critical for
+  yield ramping.
+
+In summary, KLA's specialization in process control, market dominance,
+customer stickiness, financials, and demand stability make its
+business model stand out as superior and resilient versus peers
+exposed to semiconductor manufacturing cycles. This explains Wall
+Street's bullishness.
+
+### Growth
+
+??? Info "2022Q4"
+    So in summary, KLA showed strong double-digit percentage revenue
+    and earnings growth over Q4 2022. Significantly exceeding
+    analyst estimates.
+
+    Revenue growth:
+    - Q4 revenue was $2.36 billion, up 32% year-over-year from $1.79 billion in Q4 2021
+
+    Earnings growth:
+    - Q4 GAAP diluted EPS was $4.99, up 37% from $3.64 in Q4 2021
+    - Q4 Non-GAAP diluted EPS was $5.40, up 39% from $3.88 in Q4 2021
+
+    Some additional details on revenue:
+
+    - Semiconductor Process Control revenue was $1.88 billion, up 38%
+      year-over-year
+
+    - Specialty Semiconductor Process revenue was $283 million, up 12%
+
+    - PCB, Display and Component Inspection revenue was $197 million,
+      up 22%
+
+## QCOM
+
+### Business Model Issues
+
+Qualcomm's 2023Q3 results and Q4 guidance missed analyst expectations,
+causing the stock to drop over 8% in pre-market trading. Revenue
+declined in both Qualcomm's chipset business (QCT) and licensing
+business (QTL) due to slowing smartphone demand and inventory
+drawdowns.
+
+| Business Segment | | Q3 2023 Revenue (millions) | % of Total Q3 2023 Revenue | Q3 2022 Revenue (millions) | % of Total Q3 2022 Revenue | Growth Rate |
+|-|-|-|-|-|-|-|
+| QCT | | $7,174 | 85% | $9,378 | 86% | -23% |
+| | Smartphone | $5,255 | 62% | $7,047 | 64% | -25% |   
+| | IoT | $1,485 | 18% | $1,946 | 18% | -24% |
+| | Automotive | $434 | 5% | $385 | 4% | 13% |
+| QTL | |$1,230 | 15% | $1,519 | 14% | -19% |
+| QSI | |$9 | 0% | $8 | 0% | 13% |  
+| Total | | $8,451 | 100% | $10,936 | 100% | -23% |
+
+
+
+- **Structural issues facing Qualcomm**, like loss of modem chip
+    business from Apple and Huawei. This could hamper Qualcomm's
+    future growth potential.
+
+- **A cyclical company** that will eventually rebound when smartphone
+    demand improves, but how long?
