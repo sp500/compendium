@@ -267,8 +267,3 @@ Substrates, gases, silicon used to produce chips.
 
 ---
 
-## Stock Analysis
-
-[KLAC](./stocks/klac.md)
-
-[QCOM](./stocks/qcom.md)

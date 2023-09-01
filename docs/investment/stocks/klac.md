@@ -1,5 +1,6 @@
+## KLAC
 
-## Business
+### Durable Competitive Advantage
 
 KLA's specialization in process control, market dominance, customer
 stickiness, financials, and demand stability make its business model
@@ -36,7 +37,7 @@ semiconductor manufacturing cycles.
   leading-edge nodes continues where KLA's tools are critical for
   yield ramping.
 
-## Growth
+### Growth
 
 ??? Info "2022Q4"
     So in summary, KLA showed strong double-digit percentage revenue

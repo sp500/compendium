@@ -70,9 +70,12 @@ nav:
   - Investment:
       - Value Investing:
           - Fundamental Analysis Framework: investment/value.md
-      - Industries and Stocks:
+      - Industries:
           - Quant: investment/quant.md
           - Semiconductor: investment/semi.md
+      - Stocks:
+          - Industrials: investment/stocks-ind.md
+          - Semiconductor: investment/stocks-semi.md
       - Trading Strategies:
           - Indicators: investment/indicators.md
           - Options: investment/options.md

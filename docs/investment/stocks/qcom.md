@@ -1,4 +1,6 @@
-## Business Model Issues
+## QCOM
+
+### Business Model Issues
 
 Qualcomm's 2023Q3 results and Q4 guidance missed analyst expectations,
 causing the stock to drop over 8% in pre-market trading. Revenue

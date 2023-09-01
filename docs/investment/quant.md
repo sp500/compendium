@@ -1,4 +1,4 @@
-## Quant
+## Overview
 
 Quantitative firms are financial institutions that employ quantitative
 analysts and utilize advanced mathematical and statistical techniques
