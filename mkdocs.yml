@@ -68,7 +68,8 @@ nav:
       - ChatGPT: tech/chatgpt.md
       - Github: tech/github.md
   - Investment:
-      - Value Investing: investment/value.md
+      - Value Investing:
+          - Fundamental Analysis Framework: investment/value.md
       - Industries and Stocks:
           - Quant: investment/quant.md
           - Semiconductor: investment/semi.md
