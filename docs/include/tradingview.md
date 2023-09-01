@@ -7,7 +7,7 @@ function widget(symbol) {
   "width": "100%",
   "symbol": symbol,
   "interval": "D",
-  "timezone": "Etc/UTC",
+  "timezone": "America/Los_Angeles",
   "theme": "light",
   "style": "2",
   "locale": "en",
