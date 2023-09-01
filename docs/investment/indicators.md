@@ -176,3 +176,16 @@ times of high volatility, the bands will widen.
 
 ---
 
+<!---
+https://www.youtube.com/watch?v=AOz1YPOKvEs
+
+uptrend
+downtrend
+trend change
+consolidation
+downward momentum gain
+upward momentum gain
+momentum loss
+
+long wick candle
+---->
