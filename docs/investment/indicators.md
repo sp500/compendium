@@ -1,3 +1,227 @@
+
+<!----
+https://www.youtube.com/watch?v=W3PCTl5kxe0&list=PLX5YFA5MWM7lL9bfu_t_injs_bi-gltHU&index=2
+---->
+
+## Analyzing Multiple Time Frames
+
+**HTF**
+
+- trend
+- key supply and demand levels
+
+**LTF**
+
+- liquidity
+- FVG
+
+Look for alignment and confluence between structures
+
+
+## Market Structure
+
+**Candlestick-based trends**
+
+- Uptrend: Series of bullish candles with higher highs and equal/higher lows
+- Downtrend: Series of bearish candles with lower lows and equal/lower highs
+
+**Valid pullbacks**
+
+- Bullish: Breaks below previous candle low and sweeps liquidity
+- Bearish: Breaks above previous candle high and sweeps liquidity
+
+**Impulse** Strong trending move in direction of overall trend
+
+**Correction** Retracement against trend that sweeps liquidity
+
+**Change of character**
+
+- Break and close below corrective swing low (uptrend)
+- Break and close above corrective swing high (downtrend)
+
+
+## Support and Resistance
+
+Key levels of support and resistance are identified as significant
+points for potential trade opportunities.
+
+We call an area where the price reverses resistance, indicating
+selling pressure and buyers closing longs
+
+We call an area where the price reverses support, indicating buying
+pressure and sellers closing shorts
+
+Key reasons to mark these zones:
+- Price may react to them again
+- Identify market direction from breaks
+- Identify liquidity areas
+
+## Supply and Demand Zones
+
+Supply and demand areas form when smart money enters, causing significant price movements
+Valid demand forms with aggressive buying and momentum candles
+Valid supply forms with aggressive selling and momentum candles
+Fair value gaps indicate imbalance between buyers and sellers
+Price revisits these areas to fill orders and restore balance
+Breaking structure levels also confirms momentum
+Marking Supply and Demand Zones
+Identify fair value gaps and structure breaks first
+Mark demand from high to low of last candle in sequence
+Mark supply from low to high of last candle in sequence
+Stop loss should be in a safe place in case of fluctuations
+Types of Supply and Demand Zones
+Order blocks - Optimized S/D zones after momentum moves
+Order flow - Where buying/selling pressure was building before move
+Consolidation areas - Where buyers and sellers are in equilibrium before breakout
+
+<!-- https://www.youtube.com/watch?v=0UTvF4SWdQM&t=1 -->
+
+## Key Factors Driving Market Movements
+
+
+## Liquidity Zones
+
+Liquidity simply means large orders or money that must be fulfilled by
+the market. It serves as the lifeblood of the market, playing a vital
+role in the overall dynamics and functioning.
+
+Liquidity zones are areas on a price chart with significant volumes of
+orders, such as stop losses and buy/sell orders.
+
+**Equal highs/lows and swing highs/lows** Liquidity accumulates below
+  equal lows or swing lows as buying interest may accumulate
+  there. Similarly, liquidity can be found above equal highs or swing
+  highs where selling pressure may accumulate.
+
+**Dynamic trend lines and channels** Liquidity zones form above or
+  below dynamic trend line and channel boundaries because traders may
+  place pending orders there.
+
+**Order blocks and order flows** Areas where significant buy or sell
+  orders have been executed or are clustered can act as liquidity
+  zones.
+
+
+**Support and resistance levels** Price levels that have previously
+acted as support or resistance attract market participants, making
+them potential liquidity areas.
+
+**Daily candle bodies and shadows** Liquidity can be present near the
+bodies or shadows of daily candles, reflecting price rejections and
+trading activity.  Session highs/lows
+
+**High and low points of trading sessions** represent liquidity zones
+due to increased participant activity.
+
+**Fibonacci levels** Traders monitor key Fibonacci retracement or
+extension levels, making them liquidity areas.
+
+
+Liquidity sweeps involve the market sweeping orders at specific zones,
+often before reversals or significant price movements.
+
+
+Using Liquidity in Trading Strategies
+
+When using liquidity in trading strategies, first identify the underlying trend and a valid break of structure. Anticipate a price pullback towards a point of interest to fill the inefficiency left behind. Before entering, look for a liquidity sweep pattern to confirm demand strength in your area of interest. Use liquidity sweeps as a confluence factor. The goal is for price to sweep liquidity to sustain its movement. If price fails to sweep liquidity before your entry, it may use that area as fuel instead and it's unsafe to trade.
+
+In an example consolidation, wait for a sweep of internal liquidity below equal lows. Then monitor for price to enter a higher timeframe demand zone. On the lower timeframe, look for a change of character and new point of interest to go long, targeting external liquidity like a swing high.
+
+Avoiding Inducement Zones
+
+Institutions create inducement zones to deceive retail traders into providing liquidity. Be aware of fake demand zones as potential traps. In an example, a false demand zone induces longs above it before sweeping liquidity below and moving up strongly. Avoid these zones and focus on trading with confirmed liquidity sweeps instead.
+
+Real Chart Trad
+
+### Identifying Fair Value Gaps
+
+- Fair value gaps
+    - Market tends to fill gaps and rebalance
+    - Price moves to fill gaps and clear liquidity
+
+- Formed in 3 candle sequence, large candle body
+- Space between wicks is the fair value gap zone
+- Absence of buying/selling pressure creates gap
+- Potent entry points as market attracted to liquidity  
+
+## Internal vs External Liquidity 
+
+- External liquidity - Highs and lows of rally waves
+- Internal liquidity - Fair value gaps within range
+- Price moves between internal and external liquidity
+
+### Price Movement Pattern
+
+- Goes from high/low point to fair value gap 
+- Goes from fair value gap to high/low point
+- Example rally wave:
+    1. Sweeps external liquidity above previous high
+    2. Shifts to internal liquidity/fair value gap
+    3. Transitions back to external liquidity above high
+    4. Drops to fill recent fair value gap
+    
+- Consider order flow to anticipate direction
+- Price action at fair value gap indicates direction
+
+## Real Chart Examples 
+
+- Bullish rally wave sweeps external liquidity below low
+- Retraces to fill fair value gap (internal liquidity)
+- Reverses down to sweep external liquidity
+- Examples showing price oscillating between internal and external liquidity
+- Pending video on trading strategy for this concept
+
+## Candle Patterns
+
+**Candle Color Change** show momentum loss or a reversal signal
+
+**Decreasing candle size** near key levels show momentum loss.
+
+**Long Wick Candles** failed at key levels show a reversal signal.
+
+**Multiple Rejections** of several candles rejecting at a key level
+  show a reversal signal
+
+**Dojis** show indecisions by buyers and sellers.
+
+**Inside Bars** high/low within previous candle's range show a reversal signal
+
+**Big candles** show momentum gain. When big candles approaching
+levels indicates a higher chance of breaking through the key levels.
+
+**Bullish Engulfing**
+
+- Bigger green candle engulfs entire red candle
+- Bigger green candle opens at red candle close 
+
+**Bullish Engulfing Momentum**: Much bigger green candle than previous
+  green or red candles
+
+**Bearish Engulfing**- Bigger red candle engulfs entire green candle
+- Bigger red candle opens at green candle close
+
+**Bullish Engulfing Momentum**: Much bigger red candle than previous
+  green or red candles
+
+
+<!---
+https://www.youtube.com/watch?v=Zr62KUGZKz4
+---->
+
+## Trading Strategies
+
+### Engulfing Confirmation
+
+1. Identify key level or wide zone around unclear levels
+2. Wait for engulfing candle as confirmation
+3. Draw an **immediate** or **long-term** trendline
+4. Check for real or fake breakout, or
+5  Use lower time frame to check
+6. Look for entries, or continuous entries
+
+A breakout could be a false one which traps traders and causes more
+momentum.
+
 ## Bollinger Band
 
 ### Overview

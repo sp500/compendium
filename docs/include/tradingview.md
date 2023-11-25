@@ -1,7 +1,7 @@
 <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
 <script type="text/javascript">
 function widget(symbol) {
-  new TradingView.widget(
+  w = new TradingView.widget(
   {
   "height": 610,
   "width": "100%",

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML Template</title>
+  <!-- You can add your stylesheets or scripts here -->
+</head>
+  <!-- Add your JavaScript here -->
+
+<body>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script>
+    function widget(symbol) {
+        w = new TradingView.widget(
+            {
+                "height": 610,
+                "width": "100%",
+                "symbol": symbol,
+                "interval": "D",
+                "timezone": "America/Los_Angeles",
+                "theme": "light",
+                "style": "2",
+                "locale": "en",
+                "toolbar_bg": "#f1f3f6",
+                "enable_publishing": true,
+                "withdateranges": true,
+                "range": "12M",
+                "hide_side_toolbar": false,
+                "allow_symbol_change": true,
+                "show_popup_button": true,
+                "popup_width": "1000",
+                "popup_height": "950",
+                "container_id": symbol,
+                "details": true,
+            }
+        );
+
+        // const chart = w.chart();
+        // chart.createStudy(
+        //     "Bollinger Bands", // Indicator's name
+        //     true,              // forceOverlay
+        //     false,             // lock
+        //     {
+        //         in_0: 25,        // length
+        //         in_1: 1,         // 'mult' indicator setting
+        //     }
+        // );
+    };
+
+    // Your JavaScript code
+    const testDiv = document.getElementById("test");
+    // Manipulate the div or do other operations
+    widget("VRSN");
+
+  </script>
+  
+  <!-- Div with id "test" -->
+  <div id="VRSN"></div>
+</body>
+</html>
