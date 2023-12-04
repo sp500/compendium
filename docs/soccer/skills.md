@@ -3,7 +3,7 @@
 
 - [Marseille Turn (or Zidane Turn)](https://www.youtube.com/watch?v=3IpA1P1gB9k)
 - [Half Zidane](https://youtu.be/Yqt1RngJlXE)
-- [Steop On Pull Turn](https://youtu.be/36T9P1f3MgY)
+- [Step On Pull Turn](https://youtu.be/36T9P1f3MgY)
 
 ## Body Feint
 
@@ -73,7 +73,8 @@ Double
 
 ## Skill Drible
 
-- [**Pullback V**](https://youtu.be/7W0YCX8R5_4?si=4LS73Kz-bl07ezTc)
+- [Pullback V](https://youtu.be/7W0YCX8R5_4?si=4LS73Kz-bl07ezTc)
+- [Pullback V *Tap](https://youtu.be/jpdPCWOmCP8)
 - [**Roll Fwd/Bwd Single Foot**](https://youtu.be/FZu3huesz_8?si=0qBJieS2MtODl89K&t=1)
 
 
@@ -88,9 +89,15 @@ Double
 - [**Pull Push**](https://youtu.be/AObogXh1HnI?si=ldAMJuHD3r3L43YB)
 
 ## Footworks
+
 - [**Pullback V**](https://youtu.be/x0FUDnf-6Ro?si=c7hX-0JM6uwO_Yp_)
 - [**Pullback V Oppsite**](https://youtu.be/AqXKTlUq54Y?si=gBgeQ8mNBo13Fz8t)
 - [**Roll Inside Cut Outside**](https://youtu.be/g7v3Y2igDMk?si=Vu0HqmGeadaBMchW)
+
+Square movements
+
+- [Pull-Inside *Inside](https://youtu.be/jpdPCWOmCP8)
+
 
 ## Static Ball Control
 
@@ -100,6 +107,15 @@ Double
 - [**Roll In Out Reverse Roll Over**](https://youtu.be/tf4fz-UimUI?si=PTazPrkD6l2_EDNc)
 - [**Roll In Out Behind**](https://youtu.be/H44DIQMOSgQ)
 - [Pull Push - Laces and Inside](https://youtu.be/Yqt1RngJlXE)
+- [Inside Drag Pull back Reverse Inside](https://youtu.be/jpdPCWOmCP8)
+
+## Dynamic Ball Control
+
+- [Pull Backwards Single Foot - Right/Left](https://youtu.be/rzi5nlMc-DQ)
+- [Double Inside Double Tap Outside](https://youtu.be/mRT7TDMypfo)
+- [Roll Twice *Stepover Once](https://youtu.be/jpdPCWOmCP8)
+- [Pull Backwoards 1-2 *3 Stop](https://youtu.be/nJqDiRR0L7Y)
+
 
 ## Recieving Ball
 

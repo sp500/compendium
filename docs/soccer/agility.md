@@ -14,3 +14,5 @@
 - [**In & Out Lateral**](https://youtu.be/bEzAtL8P8us?si=7RSnkt4RcvOSkPOT)
 - [**Up 2 and Down 1**](https://youtu.be/RIHeWZwvlXU?si=BxKy4QmTv2WlsokY)
 - [Side Shuffle](https://youtu.be/PTEMvHPt5fU)
+- [Criss Cross](https://youtu.be/TvNwxLbT7qc)
+- [In & Out Side - Right/Left](https://youtu.be/jpdPCWOmCP8)
