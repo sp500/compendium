@@ -13,3 +13,4 @@
 - [**Carioca Left/Right**](https://youtu.be/gsVlMMiRiWI?si=UtKcBj5iX-hCHR7c)
 - [**In & Out Lateral**](https://youtu.be/bEzAtL8P8us?si=7RSnkt4RcvOSkPOT)
 - [**Up 2 and Down 1**](https://youtu.be/RIHeWZwvlXU?si=BxKy4QmTv2WlsokY)
+- [Side Shuffle](https://youtu.be/PTEMvHPt5fU)

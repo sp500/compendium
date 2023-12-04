@@ -13,6 +13,8 @@
 - [**Roll Out Reverse Pull Behind**](https://youtu.be/sdOL79t9m40?si=BNkpRUVkCOOUJZOr)
 - [**Reverse Shuffle**](https://youtu.be/m6RKLSUpOQ0?si=ZD9H__vBhWp38Eys)
 - [**Roll In Out Reverse Roll Over**](https://youtu.be/tf4fz-UimUI?si=PTazPrkD6l2_EDNc)
+- [**Roll In Out Behind**](https://youtu.be/H44DIQMOSgQ)
+- [Pull Push - Laces and Inside](https://youtu.be/Yqt1RngJlXE)
 
 ## Recieving Ball
 
