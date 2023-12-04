@@ -89,8 +89,7 @@ nav:
           - Technology: investment/charts-tech.md
           - Growth: investment/charts-growth.md
   - Soccer:
-      - Touches: soccer/touches.md
-      - Dribble: soccer/dribble.md
+      - Skills: soccer/skills.md
       - Agility: soccer/agility.md
       - Scan: soccer/scan.md
 
