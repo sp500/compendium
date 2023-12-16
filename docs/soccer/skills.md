@@ -1,5 +1,33 @@
+## Dynamic Ball Control & Footworks
+
+- [Reverse Cut Turn](https://youtu.be/_vonk_qLlKU)
+- [Reverse Cut Turn + Roll + Inside Cut](https://youtu.be/Z_Kel0wIj2M)
+- [Double Inside + Double Tap + Outside](https://youtu.be/mRT7TDMypfo)
+- [Doutle Inside Behind + Double Taps(Inside Touch Inside Touch Behind Double Step On)](https://youtu.be/Cmt4Jdr0b-s)
+- [Tap Behind(Tip Chop)](https://youtu.be/wXR-cmHnqGM)
+- [Foundation - Squeeze Behind - *Squeeze](https://youtu.be/MW8QS3IVyyE)
+- [Inside Drag Roll Turn](https://youtu.be/3KboIvTMSXI)
+- [Roll In Out Stepover](https://youtu.be/0sJTJYv_YLQ)
+- [Tip Touch Behind Tip Touch Take](https://youtu.be/-6jhBKriIGQ)
+- [Tap *Push](https://youtu.be/MVGhEtoMLEU?si=WUamIdtXMvNu2CNM)
+- [Rollover Scissor](https://youtu.be/CoBUWILJUf4)
+- [Foundation Roll (Shuffle Rollover)](https://youtu.be/4w3gl6zeTXc)
+
+### Need correction
+
+- [Roll Twice *Stepover Once](https://youtu.be/jpdPCWOmCP8)
+- [Roll Stop - *Outside - Tap(Take Stop Roll Over Inside Cut)]
+- [Pullback V Opposite(Reverse Pull Behind Drag Roll)](https://youtu.be/3KboIvTMSXI)
+- [Pullback V - Outside V](https://youtu.be/HAKqtJhr-tE)
+- [Pullback V - Slide (Slide Behind)](https://youtu.be/0sJTJYv_YLQ)
+- [Pullback V Slide - Squeeze (Slide Behind Both Foot In)](https://youtu.be/0sJTJYv_YLQ)
+- [Stepover Double Scissor](https://youtu.be/azD0dn4C3i8)
+- [Triple Scissor](https://youtu.be/azD0dn4C3i8)
+
 
 ## Basic Touches
+
+- [Tap Stepover(Tip Touch Stepover)](https://youtu.be/jd6HVJnw0wc?si=Z5rKjfStO3RU3w59)
 
 ### Pull Push
 
@@ -9,6 +37,13 @@
 - [Drag Roll Turn 180 + Pull](https://youtu.be/3KboIvTMSXI)
 - [Foundation Outside(Reverse Shuffle)](https://youtu.be/m6RKLSUpOQ0?si=ZD9H__vBhWp38Eys)
 - [Roll In Out Behind](https://youtu.be/H44DIQMOSgQ)
+
+### Taps
+
+- [Pull Backwards Single Foot - Right/Left](https://youtu.be/rzi5nlMc-DQ)
+- [Pull Backwoards 1-2 *3 Stop](https://youtu.be/qAtG2EP1aoo)
+
+
 ## Ball Controls
 
 ### V movement
@@ -22,9 +57,6 @@
 ### Square movements
 
 - [Pull-Inside *Inside](https://youtu.be/jpdPCWOmCP8)
-
-
-
 - [Roll Out Reverse Pull Behind](https://youtu.be/sdOL79t9m40?si=BNkpRUVkCOOUJZOr)
 
 
@@ -69,7 +101,6 @@
 - [Body Feint Outside Inside](https://youtu.be/qk3cvUUaCvY?t=112)
 - [Body Feint Step Cross](https://youtu.be/N-HbFSguyjk?t=241) | [Step Cross](https://youtu.be/NQHtQEa7rDI?t=358)
 - [Body Feint Outside-Inside(Elastico/Heistation Outside Inside)](https://youtu.be/H5_2WD1TGf4?t=501)
-
 
 ### Body Feint Then Inside First
 
@@ -167,39 +198,12 @@
 - [Rollup Outside](https://youtu.be/y7xXjwMgK5E)
 
 
-## Dynamic Ball Control
-
-- [Pull Backwards Single Foot - Right/Left](https://youtu.be/rzi5nlMc-DQ)
-- [Double Inside Double Tap Outside](https://youtu.be/mRT7TDMypfo)
-- [Roll Twice *Stepover Once](https://youtu.be/jpdPCWOmCP8)
-- [Pull Backwoards 1-2 *3 Stop](https://youtu.be/qAtG2EP1aoo)
-- [Reverse Cut Turn](https://youtu.be/_vonk_qLlKU)
-- [Tap Behind(Tip Chop)](https://youtu.be/wXR-cmHnqGM)
-- [Foundation - Squeeze Behind - *Squeeze](https://youtu.be/MW8QS3IVyyE)
-- [Roll Stop - *Outside - Tap(Take Stop Roll Over Inside Cut)]
-- [Pullback V Opposite(Reverse Pull Behind Drag Roll)](https://youtu.be/3KboIvTMSXI)
-- [Pullback V - Outside V](https://youtu.be/HAKqtJhr-tE)
-- [Roll In Out Stepover](https://youtu.be/0sJTJYv_YLQ)
-- [Pullback V - Slide (Slide Behind)](https://youtu.be/0sJTJYv_YLQ)
-- [Pullback V Slide - Squeeze (Slide Behind Both Foot In)](https://youtu.be/0sJTJYv_YLQ)
-- [Stepover Double Scissor](https://youtu.be/azD0dn4C3i8)
-- [Triple Scissor](https://youtu.be/azD0dn4C3i8)
-- [Take Reverse Cut Roll Over Inside Cut](https://youtu.be/Z_Kel0wIj2M)
-- [Inside Inside Behind Double Taps(Inside Touch Inside Touch Behind Double Step On)](https://youtu.be/Cmt4Jdr0b-s)
-- [Tip Touch Behind Tip Touch Take](https://youtu.be/-6jhBKriIGQ)
-- [Tap Stepover(Tip Touch Stepover)](https://youtu.be/jd6HVJnw0wc?si=Z5rKjfStO3RU3w59)
-- [Tap *Push](https://youtu.be/MVGhEtoMLEU?si=WUamIdtXMvNu2CNM)
-- [Rollover Scissor](https://youtu.be/CoBUWILJUf4)
-- [Foundation Roll (Shuffle Rollover)](https://youtu.be/4w3gl6zeTXc)
 
 
 ## Recieving Ball
 
 - [**Drag Turn**](https://youtu.be/SJAQj25EVyI?si=u0Zn3eVFc3557Qyx)
 
-## Cut
-
-- [Reverse Cut Turn](https://youtu.be/Z_Kel0wIj2M)
 
 
 ??? Info "Video & Notes"
